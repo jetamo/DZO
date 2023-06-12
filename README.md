@@ -1,6 +1,6 @@
 # Projekt do předmětu Digitální zpracování obrazu
 
-OpenCV
+Za využití knihovny OpenCV
 
 	- gamma correction
 	- convolution
