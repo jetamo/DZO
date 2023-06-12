@@ -1,5 +1,5 @@
 # Projekt do předmětu Digitální zpracování obrazu
-
+OpenCV
 	- gamma correction
 	- convolution
 	- anisotrpic filtration
